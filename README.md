@@ -1,2 +1,2 @@
-# my_projects
+# My Projects
 Learning programming
